@@ -1,4 +1,6 @@
-Salih Khan, skkhan1@my.waketech.edu. 
-My GitHub account was created with my Wake Tech email and its username is skkhan157. 
-The repository I created is named after my username, and it contains a README.md file. 
-To clone my repository, I navigated to the GitHub desktop app and clicked file on the top left. Then I selected "clone repository" and then I clicked clone.
+# About Me  
+## My Interests
+I like history and reading comics. My favorite subjects are history, English, and psychology.
+## Websites I Recommend
+* [Wikipedia] (https://en.wikipedia.org) - I like Wikipedia because it is an easy way to get a general idea about a variety of topics with explanations that are simple and understandable.
+* [Reddit] (https://reddit.com) - I like Reddit because it is an easy way to find solutions to problems (especially technological problems) and allows for an easy way for someone to browse their interests. 
